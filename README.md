@@ -11,7 +11,13 @@ Students can enroll in structured courses, track progress lesson by lesson, earn
 certificates, and follow curated learning paths from beginner to job-ready.
 
 ## Screenshot
-![Dashboard](screenshots/dashboard-page.png)  ![Login](screenshots/auth-page.png)  ![Course](screenshots/course-page.png)   ![Lesson-Player](screenshots/lesson-player.png)
+![Dashboard](screenshots/dashboard-page.png) 
+
+![Login](screenshots/auth-page.png)  
+
+![Course](screenshots/course-page.png)   
+
+![Lesson-Player](screenshots/lesson-player.png)
 
 ## Features
 - 42 courses across 9 disciplines
