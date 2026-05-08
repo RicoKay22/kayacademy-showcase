@@ -11,12 +11,16 @@ Students can enroll in structured courses, track progress lesson by lesson, earn
 certificates, and follow curated learning paths from beginner to job-ready.
 
 ## Screenshot
-![Auth Page](screenshots/dashboard-page.png) 
+**Login Page**
+![Login](screenshots/auth-page.png) 
 
-![Login](screenshots/auth-page.png)  
+**Dashboard**
+![Dashboard](screenshots/dashboard-page.png)  
 
+**Course Details**
 ![Course](screenshots/course-page.png)   
 
+**Lesson Player**
 ![Lesson-Player](screenshots/lesson-player.png)
 
 ## Features
